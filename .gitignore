@@ -1,0 +1,3 @@
+.venv/
+dotm.egg-info/
+dist/
